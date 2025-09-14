@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ziad Bassem  
-🎯 *Data Scientist in training | Mechanical Engineering background | AI for Energy & Industry 4.0*
+🎯 *Data Scientist | Mechanical Engineering background | AI for Energy & Industry 4.0*
 
 ---
 
