@@ -7,6 +7,17 @@ I combine **engineering intuition** with **machine learning expertise** to deliv
 
 ## 🚀 Featured Projects
 
+### AI vs Real Image Classifier (NEW)
+Problem: AI image generators (Stable Diffusion, MidJourney, DALL·E) produce hyper-realistic visuals that can be hard to distinguish from real images — a key challenge for moderation, research integrity, and content platforms.
+Dataset: ~1,000 images → 500 AI-generated (Stable Diffusion) vs 470 real photos (Pexels API).
+Preprocessing: Resized to 224×224, normalized, augmentations (flips, rotations, brightness/contrast, Gaussian blur).
+Model: Vision Transformer (ViT) pretrained on ImageNet (transfer learning). Trained on Roboflow GPU cluster. (~34 min, 12 epochs).
+Performance: 99% Test Accuracy with smooth convergence & validation stability.
+Deployment:
+Streamlit App → Live Demo(https://ziadaivsreal.streamlit.app/)
+Roboflow API for hosted inference
+Interactive workflow: image upload → classifier prediction → real-time confidence score.
+
 ### 🏠 Energy Efficiency Explorer  
 - Compared **real vs synthetic datasets** (UCI + Mostly AI)  
 - Built XGBoost and Random Forest models → **R²: 0.99 (real) vs 0.82 (synthetic)**  
