@@ -1,7 +1,26 @@
 # 👋 Hi, I’m Ziad Bassem
-🎯 Data Scientist | Mechanical Engineering Background | AI for Energy & Industry 4.0  
+🎯 ML Engineer in training | Mechanical Power Engineer | AI for Energy & Industrial Systems  
 
-I combine **engineering intuition** with **machine learning expertise** to deliver practical AI solutions — from data preprocessing and modeling to deployment and business insights.  
+I combine **engineering intuition** from 18 months working on industrial air compressors with **machine learning** to build practical AI for energy and industry — from data and models to deployment.  
+
+## 🔭 Right now
+- Following a structured ML engineering roadmap: CS50x → Python → SQL → ML → deep learning → MLOps
+- Solving one problem a day from a blank file, timed and without notes; every reviewed solution is published in [ml-engineering-log](https://github.com/ZiadBassem/ml-engineering-log)
+- Working through the NeetCode 150 ([neetcode-submissions](https://github.com/ZiadBassem/neetcode-submissions))  
+
+---
+
+<!-- proof-wall:start -->
+## 📈 Proof wall (auto-updated)
+**2** solutions published · **0**/150 NeetCode · **25** topics covered · since Oct 2026
+
+- 2026-10-11 · Blind solve: Count the Fault Codes — accepted 9/10 · 2 attempts
+- 2026-10-11 · First clean accept — Count the Fault Codes, 9/10
+- 2026-10-08 · Blind solve: Busiest Load Level — accepted 10/10 · 7 attempts
+- 2026-10-08 · First solution published — on GitHub
+
+[Full proof wall →](https://github.com/ZiadBassem/ml-engineering-log/blob/main/PROOF.md)
+<!-- proof-wall:end -->
 
 ---
 
@@ -40,7 +59,7 @@ I combine **engineering intuition** with **machine learning expertise** to deliv
 ---
 
 ## 🛠️ Current Tech Stack
-- **Languages**: Python (Pandas, NumPy, Scikit-learn), SQL  
+- **Languages**: Python (Pandas, NumPy, Scikit-learn), SQL, C (learning through CS50x)  
 - **Tools**: Jupyter Notebooks, Streamlit, GitHub, IBM Watson  
 - **ML Extras**: XGBoost, SHAP interpretability, synthetic data (Mostly AI)  
 
